@@ -17,10 +17,10 @@
 		<h1>DataBank</h1>
 		<ul>
                     <li><a class="active" href="Index.php">Principal</a></li>
-                    <li><a href="usuario.php">Usuario</a></li>
-                    <li><a href="cajero.php">Cajero</a></li>
-                    <li><a href="administrador.php">Administrador</a></li>
-                    <li><a href="nuevousuario.php">Ingresar un usuario</a></li>
+                    <li><a href="Vistas/usuario.php">Usuario</a></li>
+                    <li><a href="Vistas/cajero.php">Cajero</a></li>
+                    <li><a href="Vistas/administrador.php">Administrador</a></li>
+                    <li><a href="Vistas/nuevousuario.php">Ingresar un usuario</a></li>
 		</ul>
 	</div>
     
